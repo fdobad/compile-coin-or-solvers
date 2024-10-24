@@ -1,4 +1,6 @@
-# compile-coin-or-solvers
 compile coin-or solvers Ipopt SHOT
+use them on pyomo
 
-https://gitlab.com/fdobad/compile-coin-or-solvers
+Here is ARCHIVED, visit:
+
+https://codeberg.org/fdobad/compile-coin-or-solvers
